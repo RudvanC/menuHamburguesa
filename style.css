@@ -156,24 +156,20 @@ footer {
     margin-left: 2%;
   }
 
-}
-
-
-@media (max-width: 768px){
+}@media (max-width: 768px){
 
   header{
-    margin-top: 50px;
+    margin-top: 70px;
     padding: 10px 10px 10px 10px;
   }
 
-  .logo-image{
-    height: 8vh;
-    width: 10vh;
   }
 
- 
 
-}
+
+
+
+
 
 
 @media(min-width:1080px) {
